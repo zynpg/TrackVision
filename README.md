@@ -1,6 +1,3 @@
-Tabii! İşte son gönderdiğiniz Python kodu için bir README dosyası içeriği:
-
----
 
 # OpenCV Nesne Takibi Projesi
 
@@ -56,10 +53,4 @@ Bu projeye katkıda bulunmak için aşağıdaki adımları izleyebilirsiniz:
 3. Gerekli değişiklikleri yapın ve yeni özellikler ekleyin.
 4. Değişikliklerinizi commit edin ve pull request gönderin.
 
-## Lisans
 
-Bu proje, MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](./LICENSE) dosyasına bakabilirsiniz.
-
----
-
-Bu içeriği bir dosyaya kaydedip, README.md dosyasını projenize dahil edebilirsiniz.
