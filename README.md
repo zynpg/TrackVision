@@ -58,5 +58,4 @@ Lisans: Projenin lisansı ve telif hakkı bilgisi.
 Bu şablonu ihtiyacınıza göre değiştirebilir ve projenizin detaylarına göre özelleştirebilirsiniz.
 
 
-Şunu dedin:
 
